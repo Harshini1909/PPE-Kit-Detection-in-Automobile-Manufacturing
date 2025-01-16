@@ -1,4 +1,4 @@
-# PPE-Kit-Detection-in-Automobile-Manufacturing 
+# PPE Kit Detection in Automobile Manufacturing 
 
 This project focuses on enhancing safety protocols in industrial and manufacturing environments through the use of deep learning and object detection. The system aims to ensure compliance with safety regulations by detecting unauthorized human presence and verifying the use of Personal Protective Equipment (PPE) on workers.  
 
